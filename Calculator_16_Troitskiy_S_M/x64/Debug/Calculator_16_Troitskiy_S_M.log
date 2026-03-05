@@ -1,0 +1,19 @@
+﻿  Calculator_16_Troitskiy_S_M.cpp
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(27,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(28,3): error C2065: mov: необъявленный идентификатор
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(28,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(28,7): error C2065: eax: необъявленный идентификатор
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(29,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(29,3): error C2065: mov: необъявленный идентификатор
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(29,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(29,7): error C2065: ebx: необъявленный идентификатор
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(30,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(30,3): error C2065: add: необъявленный идентификатор
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(30,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(30,7): error C2065: eax: необъявленный идентификатор
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(30,12): error C2065: ebx: необъявленный идентификатор
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(31,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(31,3): error C2065: mov: необъявленный идентификатор
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(31,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "result_asm"
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(31,19): error C2065: eax: необъявленный идентификатор
+C:\Users\yom83\source\repos\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M\Calculator_16_Troitskiy_S_M.cpp(33,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
